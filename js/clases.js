@@ -1,4 +1,4 @@
-class Cliente{
+/*class Cliente{
    // El constructor se encarga de definir las propiedades generales de
    // la clase, es decir, las propiedades en común que tendrán 
    // todos los objetos o métodos dentro de la clase.
@@ -44,3 +44,4 @@ console.log(Cliente.bienvenida());
 
 console.log(clienteAlexis.imprimirSaldo());
 console.log(clienteAlexis.tipoCliente());
+*/
