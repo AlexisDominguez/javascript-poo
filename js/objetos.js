@@ -13,7 +13,7 @@ const cliente = {
       return tipo;
    }
 } 
-console.log(cliente.tipoCliente());
+//console.log(cliente.tipoCliente());
 
 //Método alternativo (No ES6)
 /*
